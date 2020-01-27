@@ -8,7 +8,7 @@ String conexion,insertar datos en java
 
 <h3>Link Clases</h3>
 
-[Clases](https://github.com/ecruzq1/Series/tree/master/src/serie)
+[Clases](https://github.com/ecruzq1/Conexionbdd/tree/master/src)
 
 
 <h1>AUTOR</h1>
